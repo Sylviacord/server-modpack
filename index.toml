@@ -1,9 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "631b58516a76eeab3ebb10109163692938f082b0d33ab942d5b4f7a3f6cd1865"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
+
+[[files]]
+file = "mods/Extra Classes - Origins.jar"
+hash = "c1574a0dfc631aeb8d0640be020a5bd08b7958444055d6fda60dc4fca8bfe945"
 
 [[files]]
 file = "mods/additional-banners.pw.toml"
@@ -121,6 +129,10 @@ hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
 metafile = true
 
 [[files]]
+file = "mods/chubbystuff-2.0.1-fabric.jar"
+hash = "bc42726a14f4e3a2be8324f0e02a1652b5240848845324a5768a37fc55bc4c20"
+
+[[files]]
 file = "mods/cleancut.pw.toml"
 hash = "7ea37e2cbe755149aaaf569fd9999541fc766c6057fc7a062a715af51b387b93"
 metafile = true
@@ -154,6 +166,10 @@ metafile = true
 file = "mods/create-fabric.pw.toml"
 hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
 metafile = true
+
+[[files]]
+file = "mods/creeperoverhaul-2.0.5-fabric.jar"
+hash = "e923124841064ea2ea0a9b13eb11ffe9dc21764b86890e37d6c71639930ea8f0"
 
 [[files]]
 file = "mods/dark-paintings.pw.toml"
@@ -264,6 +280,10 @@ metafile = true
 file = "mods/fastload.pw.toml"
 hash = "a5c59c3e730a90d86c9fcc59a36eeed58235826cd6630d208dd1422b3d4f0727"
 metafile = true
+
+[[files]]
+file = "mods/findme-3.1.0-fabric.jar"
+hash = "621c945611157655d34a9d28fc60f3fafe391e4cfe7c6603a1ebab8a36c401fb"
 
 [[files]]
 file = "mods/frame-api.pw.toml"
@@ -506,6 +526,10 @@ hash = "d0cd4b1f936b73cbe367ccc74c325688bb5aa1e87e41f571124a22c3b361c2c1"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries-1.19.2-2.2.21-fabric.jar"
+hash = "bd2fa128c673d4b372ffee6298f3af98eafdc0a934bc660314329c1207b4f3f7"
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
 metafile = true
@@ -529,6 +553,10 @@ metafile = true
 file = "mods/things.pw.toml"
 hash = "6b056c1e695fd8d088c8a373e071953815d7b52fe1087baa44565d3093b111e1"
 metafile = true
+
+[[files]]
+file = "mods/thonkutil-2.15.4+1.19.jar"
+hash = "738b5c0df6f34f5421297297b18b9fe799f373d120f99c8a4cdad2171b708345"
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
