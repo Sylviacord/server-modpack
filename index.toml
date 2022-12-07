@@ -188,6 +188,11 @@ hash = "7c319e5948529ed86793dbd517f9445ffd27547a60e8d97d63e8234e736e72e7"
 metafile = true
 
 [[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "3e78410fbe155fb7f3d90ab9ff35cccf1b39efe3fa5bf19159003e32240d1184"
+metafile = true
+
+[[files]]
 file = "mods/earth2java.pw.toml"
 hash = "7b08bf0757ccb5b0dcbb20a37c8bd16d6a5f4a8f87b5615da901e28e779d421d"
 metafile = true
