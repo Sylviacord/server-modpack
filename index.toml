@@ -361,6 +361,11 @@ hash = "afdc2fafab3adf523bd090b86a2216828e1d0171b69d8bd835ec050fd9853ce4"
 metafile = true
 
 [[files]]
+file = "mods/mavapi.pw.toml"
+hash = "a6c66745ff4e44c84d89d2bffe88413d0209252392ee9f7776aba3c30e8b9de9"
+metafile = true
+
+[[files]]
 file = "mods/mavm.pw.toml"
 hash = "1666b7be35ee758e442f14c9f2eb21253b68447c89a1b6efe473c29c43884a47"
 metafile = true
