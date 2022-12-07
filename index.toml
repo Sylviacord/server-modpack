@@ -302,9 +302,8 @@ hash = "442019be001e642ad213b5dac7bc3f8587548f537221b3663ee4418c5353e342"
 metafile = true
 
 [[files]]
-file = "mods/goblin-traders-fabric.pw.toml"
-hash = "c1272d06093a08717420d2aee3de94332a208ed1435694151bf1bd06b5d35536"
-metafile = true
+file = "mods/goblintraders-fabric-1.8.0-1.19.2.jar"
+hash = "5967dd029c88480a024cdc75862f3ff78c5fede5ab289247e1e608f7f9d952bc"
 
 [[files]]
 file = "mods/gravestones.pw.toml"
