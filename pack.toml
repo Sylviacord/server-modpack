@@ -1,0 +1,16 @@
+name = "SylviaCraft"
+author = "Sylviacord"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "367446cbae683e8683f939aba81dab35d4d2b53880bb91921e3463b18bc82289"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.1-beta.22"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]
