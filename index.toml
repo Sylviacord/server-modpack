@@ -193,6 +193,11 @@ hash = "e74878eb2e93e53bf1b141fea99da463c3a0082af670dc8fa21239f0f08a18f4"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
+metafile = true
+
+[[files]]
 file = "mods/earth2java.pw.toml"
 hash = "7b08bf0757ccb5b0dcbb20a37c8bd16d6a5f4a8f87b5615da901e28e779d421d"
 metafile = true
