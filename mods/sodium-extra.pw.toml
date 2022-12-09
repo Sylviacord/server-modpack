@@ -2,6 +2,11 @@ name = "Sodium Extra"
 filename = "sodium-extra-0.4.14+mc1.19.2-build.80.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Adds more features to Sodium"
+
 [download]
 url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/1ha6EuaV/sodium-extra-0.4.14%2Bmc1.19.2-build.80.jar"
 hash-format = "sha1"

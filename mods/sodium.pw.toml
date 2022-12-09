@@ -2,6 +2,11 @@ name = "Sodium"
 filename = "sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Client-side rendering optimization mod"
+
 [download]
 url = "https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar"
 hash-format = "sha1"

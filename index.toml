@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
+hash = "5de4fe7fa64093ed08bc97053589c57216305b72c56d1d8db947cae67f9a2806"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+hash = "ca9b306e9d407dc1bac386c9a2fa3685267ad6133c2176e9c1afc0047c816e0e"
 metafile = true
 
 [[files]]
@@ -100,6 +100,11 @@ hash = "bb3238ceb56c13b0a37e89c8836e0a56c63159b74c2f4e0dbfb93018c06bcd81"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "6c8552e39877159b17cbc923373382360fd55ee17a1e1052d73bf4d5325757a9"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "37031b97299b444d87cebb4c40091fca6130cc1ffd5d5eac7bd56ff1406cfa10"
 metafile = true
@@ -107,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/bountiful-fabric.pw.toml"
 hash = "59728592596adaba0664857ea87de5bb446c7f5d1e62f5f10d7f7453e42cd0be"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "fc632042f2883e073f96174899b02add9ca1ad5094cfdf8020b1c704c79c8ae0"
 metafile = true
 
 [[files]]
@@ -185,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "7c319e5948529ed86793dbd517f9445ffd27547a60e8d97d63e8234e736e72e7"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "6aef6d4d501a4727371c46c6d9d29dc10e0584eb85f48b81e675f70664ddac0e"
 metafile = true
 
 [[files]]
@@ -288,6 +303,11 @@ hash = "a5c59c3e730a90d86c9fcc59a36eeed58235826cd6630d208dd1422b3d4f0727"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "cfeb2aeb0c9f1eac070048357f860526a85df5d2d11edb81424d53fd19fcc1c4"
+metafile = true
+
+[[files]]
 file = "mods/findme-3.1.0-fabric.jar"
 hash = "621c945611157655d34a9d28fc60f3fafe391e4cfe7c6603a1ebab8a36c401fb"
 
@@ -351,13 +371,23 @@ hash = "69db7a4aa6bf2136864de6a5109c3549d589f11005e9663c6b4d2b6947e6d7c3"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "3e8c94af218053e8f47cb42cb125263432e4de0bb38002f846d254c78bbb8e03"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "575bdefe476d24d7d50f7ac66bd80bf8c770d108bf4683a2e7d772c3dabb4fb1"
+hash = "d13e570b49461f6edf2bad2b6f79b9f70fd45d12d72ab10973973d903213703a"
 metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "d88ef23b131d4084301acdda7fe303494e6a60abc2b5936ff1885de0e3168aef"
 metafile = true
 
 [[files]]
@@ -461,6 +491,11 @@ hash = "ca18796a9db2d6bb948b0b58dec77b008701da2e232b7c53b6d6030b59616047"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "e5d5ab520285d1b67c5dd6a384a1e181bd38615c1b918ecba24c06ac66cb5489"
+metafile = true
+
+[[files]]
 file = "mods/probably-chests.pw.toml"
 hash = "1bdc50191c758d34a756ba1d72e07c299b88af8d03c9968fd6733102fe66efb3"
 metafile = true
@@ -482,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+hash = "436d78aaabf1cfddacc980440c78513ac784613ab6057326c3620897bbed9d7e"
 metafile = true
 
 [[files]]
@@ -522,12 +557,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
+hash = "90b2dc929a204773603bcec33923f5c4aa59ab629b0dc800ae198e7cc460e265"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+hash = "a78cc6f2f62f01a7af59daf4a51de046a7729f751984ca499b3d279e313bdbf8"
 metafile = true
 
 [[files]]
@@ -650,5 +685,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "fd46de6c3c5d14189e12daa71b81e697a248fbeac9b1c0b2d71bb8f61a84605b"
+hash = "a002aeb06f362ada164c1139b0d49c31d2e3c91dd6d01a3e6b4f58998a711d58"
 metafile = true
