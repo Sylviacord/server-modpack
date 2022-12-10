@@ -351,6 +351,11 @@ hash = "58ec51afc2354d65aeb2f9e068d8467fb2d3c13a3e751325385a59d5d493930f"
 metafile = true
 
 [[files]]
+file = "mods/image2map.pw.toml"
+hash = "0b59d24e17268a011904e90d56a5b6fd3d3079479c07a61b344ecfec1c06df95"
+metafile = true
+
+[[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "460ca6957cd7e48141289b82cfecd1217d9d9007382cae2c572da25502d8f335"
 metafile = true
@@ -372,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "b31a208b7081578fc7e6323b4e3669eecc138d5fa6f7fb0f71b451f1a31ecd4c"
+hash = "17c081731115bc39b8224b5a9f9c107e2b469f2ceac0810e6e938a4280972306"
 metafile = true
 
 [[files]]
