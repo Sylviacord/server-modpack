@@ -2,6 +2,11 @@ name = "JourneyMap"
 filename = "journeymap-1.19.2-5.9.0beta3-fabric.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = " Real-time mapping in game or in a web browser as you explore. "
+
 [download]
 url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/9m6WzQnE/journeymap-1.19.2-5.9.0beta3-fabric.jar"
 hash-format = "sha1"
