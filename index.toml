@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+hash = "45522eac90a632e7063e0596dc78a436c7143ac5f18fa93eb6caa77acb1110cf"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f1480d6ab6b5be038d817e0ed9bf8e35d0c81a5902e8f816c474e59af3bd3e29"
+hash = "b31a208b7081578fc7e6323b4e3669eecc138d5fa6f7fb0f71b451f1a31ecd4c"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "3e8c94af218053e8f47cb42cb125263432e4de0bb38002f846d254c78bbb8e03"
+hash = "045778723d99e604db5e8f814f0f8ca066e2ccd0e99bc309e04f3f51bd78d16b"
 metafile = true
 
 [[files]]
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a78cc6f2f62f01a7af59daf4a51de046a7729f751984ca499b3d279e313bdbf8"
+hash = "49629fd5ac505fa57281661a23349966e70aa31ae1423ef6494862cecae8b54a"
 metafile = true
 
 [[files]]
