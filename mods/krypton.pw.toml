@@ -5,7 +5,7 @@ side = "both"
 [option]
 optional = true
 default = true
-description = "Network optimization mod"
+description = "A mod to optimize the Minecraft networking stack"
 
 [download]
 url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.2.1/krypton-0.2.1.jar"

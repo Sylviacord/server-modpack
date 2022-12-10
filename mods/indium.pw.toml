@@ -2,6 +2,11 @@ name = "Indium"
 filename = "indium-1.0.9+mc1.19.2.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Re-implements indigo rendering API for mods. Requires Sodium."
+
 [download]
 url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/yTfou6df/indium-1.0.9%2Bmc1.19.2.jar"
 hash-format = "sha1"
