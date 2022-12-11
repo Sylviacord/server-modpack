@@ -581,6 +581,11 @@ hash = "49629fd5ac505fa57281661a23349966e70aa31ae1423ef6494862cecae8b54a"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true

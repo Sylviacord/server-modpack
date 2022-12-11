@@ -1,12 +1,12 @@
 name = "SylviaCraft"
 author = "Sylviacord"
-version = "1.3.0"
+version = "1.3.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0212ef139e51ac4fe94db2423efc006081b852a5be6a6ddd04962bc23aabf6e5"
+hash = "eb143cc0a7038d9ab0b14276037009ccd7e9ec4b34c1763d481dba9e658746f3"
 
 [versions]
 minecraft = "1.19.2"
