@@ -346,11 +346,6 @@ file = "mods/goblintraders-fabric-1.8.0-1.19.2.jar"
 hash = "5967dd029c88480a024cdc75862f3ff78c5fede5ab289247e1e608f7f9d952bc"
 
 [[files]]
-file = "mods/gravestones.pw.toml"
-hash = "58ec51afc2354d65aeb2f9e068d8467fb2d3c13a3e751325385a59d5d493930f"
-metafile = true
-
-[[files]]
 file = "mods/image2map.pw.toml"
 hash = "0b59d24e17268a011904e90d56a5b6fd3d3079479c07a61b344ecfec1c06df95"
 metafile = true
