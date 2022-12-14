@@ -371,6 +371,11 @@ hash = "45522eac90a632e7063e0596dc78a436c7143ac5f18fa93eb6caa77acb1110cf"
 metafile = true
 
 [[files]]
+file = "mods/interlink.pw.toml"
+hash = "447fa5adc48473ce827d4dad6e8d8f13906e38d2e0627dee6db9fc26a87442f1"
+metafile = true
+
+[[files]]
 file = "mods/ironchests.pw.toml"
 hash = "153d760e1652c4007536ec941dd67f744701099f15edd542403101bf3fa06ee0"
 metafile = true
