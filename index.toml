@@ -371,6 +371,11 @@ hash = "45522eac90a632e7063e0596dc78a436c7143ac5f18fa93eb6caa77acb1110cf"
 metafile = true
 
 [[files]]
+file = "mods/interlink.pw.toml"
+hash = "447fa5adc48473ce827d4dad6e8d8f13906e38d2e0627dee6db9fc26a87442f1"
+metafile = true
+
+[[files]]
 file = "mods/ironchests.pw.toml"
 hash = "153d760e1652c4007536ec941dd67f744701099f15edd542403101bf3fa06ee0"
 metafile = true
@@ -423,11 +428,6 @@ metafile = true
 [[files]]
 file = "mods/mavm.pw.toml"
 hash = "1666b7be35ee758e442f14c9f2eb21253b68447c89a1b6efe473c29c43884a47"
-metafile = true
-
-[[files]]
-file = "mods/mcdiscordchat.pw.toml"
-hash = "751086255d0b621d234614449618ce01108bb36c7d7bf305b8096621445d4454"
 metafile = true
 
 [[files]]
