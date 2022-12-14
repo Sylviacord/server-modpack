@@ -346,6 +346,16 @@ file = "mods/goblintraders-fabric-1.8.0-1.19.2.jar"
 hash = "5967dd029c88480a024cdc75862f3ff78c5fede5ab289247e1e608f7f9d952bc"
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "53e83e4a46fa1fc9f865fc1dd458b256f3f3083cdeabdee417834d83e3b1b739"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "d8dccc98675fa673ef31604987c79c778e5e7774dc35d2ffceded14658c06bab"
+metafile = true
+
+[[files]]
 file = "mods/image2map.pw.toml"
 hash = "0b59d24e17268a011904e90d56a5b6fd3d3079479c07a61b344ecfec1c06df95"
 metafile = true
@@ -441,6 +451,11 @@ hash = "bee2e85c83f22808ec038ccf0fae49e9e3825c20318a449fec21c0cc3090c500"
 metafile = true
 
 [[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "225e12625d8b7b6ad6ebb832e1ec9ab4a33fdf45c6daad29b3a8857a5bf9ec09"
+metafile = true
+
+[[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "ab9f1a44770958246ddee1e25a0748ca8c4597daceadebe7ecd3b59b50df7951"
 metafile = true
@@ -478,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "03d4272f909720df400b6af4c90a93fc95e3a55c85935e7777724ba9f9bcb994"
 metafile = true
 
 [[files]]
